@@ -5,7 +5,7 @@ tensor shapes carried in dependent types. The repo combines a typed Lean
 reference implementation with a mirrored PyTorch backend, so readers can study
 transformer math, compile-time shape safety, empirical autodiff validation, and
 Lean↔PyTorch parity in one place. It is an educational and experimental
-project, not a claim of full formal verification.
+project.
 
 ## Quickstart
 
@@ -59,7 +59,7 @@ LLMs but not assumed to be mathematicians or Lean experts.
 
 ## What Is Not Claimed
 
-This repo does **not** currently claim:
+This repo does **not** claim anything just purely educational experimental project.
 
 - a fully formally verified transformer
 - a formal proof of autodiff correctness
