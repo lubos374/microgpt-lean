@@ -1,0 +1,4 @@
+metric=accuracy
+checkpoint=python_backend/checkpoints/run-30000-d32-l2-ctx32/best.bin
+loss=1.754119591
+accuracy=0.531982422

@@ -1,0 +1,4 @@
+metric=accuracy
+checkpoint=python_backend/checkpoints/run-5000-d32-l2-ctx16/step-003000.bin
+loss=2.480792200
+accuracy=0.371337891
